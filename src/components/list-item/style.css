@@ -1,0 +1,15 @@
+.item{
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.important{
+    color: #61dafb;
+    font-size: 20px;
+}
+
+.done {
+    color: gainsboro;
+    text-decoration: line-through;
+    font-size: 16px;
+}

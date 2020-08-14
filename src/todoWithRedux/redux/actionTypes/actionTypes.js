@@ -1,0 +1,11 @@
+export const ADD_ITEM = 'ADD_ITEM';
+export const DELETE_ITEM = 'DELETE_ITEM';
+export const TOGGLE_DONE = 'TOGGLE_DONE';
+export const TOGGLE_IMPORTANT = 'TOGGLE_IMPORTANT';
+
+export const FILTERS = {
+    SHOW_ALL: 'SHOW_ALL',
+    SHOW_DONE: 'SHOW_DONE',
+    SHOW_IMPORTANT: 'SHOW_IMPORTANT',
+    SHOW_ACTIVE: 'SHOW_ACTIVE'
+};
